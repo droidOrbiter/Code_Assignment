@@ -1,4 +1,4 @@
-# Code_Assignment
+# Code Assignment
 
 </br>
 
@@ -21,4 +21,28 @@ Make use of
 * ### App Structure
 
 ![appStructure](https://user-images.githubusercontent.com/51214344/72342921-524e8400-36d6-11ea-9bc6-4cab6921198f.png)
+
+
+
+####  UI 
+
+> In the UI package are stored all the Views of the application. I have created one View with the name 'MainActivity'. The view is responsible to initialize the ViewModel.
+
+
+#### ViewModel
+
+> The ViewModel with be responsible to initialize the RecyclerView, the ProgressBarView and handle the UI requests.
+
+
+#### Domain Layer
+> This layer is responsible to initialize the request date from the data layer.
+
+
+#### Data Layer
+> The main purpose in this layer is to downloand and fetch the content from the remote scource.
+
+</br>
+
+
+
 
