@@ -20,5 +20,5 @@ Make use of
 
 * ### App Structure
 
-
+![appStructure](https://user-images.githubusercontent.com/51214344/72342921-524e8400-36d6-11ea-9bc6-4cab6921198f.png)
 
