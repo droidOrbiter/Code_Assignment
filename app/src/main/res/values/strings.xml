@@ -1,0 +1,19 @@
+<resources>
+
+    <!--    Global values  -->
+
+    <string name="app_name">Code Assignment</string>
+
+
+    <!--    MainActivity    -->
+
+    <string name="MainActivity_ActionMenu_Title">Square Repositories</string>
+
+    <string name="MainActivity_Text_Name">\u2022 Name</string>
+
+    <string name="MainActivity_Text_Description"><u>Description</u></string>
+
+    <string name="MainActivity_RecyclerView_Clicked">RecyclerView Clicked</string>
+
+
+</resources>

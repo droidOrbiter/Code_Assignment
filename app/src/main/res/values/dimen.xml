@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Global values  -->
+
+    <dimen name="Menu_Text_Size">25sp</dimen>
+
+    <dimen name="CardViewCorners">5dp</dimen>
+
+    <dimen name="CardViewElevation">5dp</dimen>
+
+
+    <!--    Main_Activity    -->
+
+    <dimen name="MainActivity_dimen_InnerTitle">17sp</dimen>
+
+    <dimen name="MainActivity_dimen_InnerText">16sp</dimen>
+
+</resources>
